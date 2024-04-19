@@ -1,0 +1,17 @@
+.navbar{
+    transition:all 1s linear;
+    
+}
+.viewcart:hover .viewcartbg{
+    left:0px;
+}
+
+.activex{
+    background-color: red !important;
+    position: fixed;
+    z-index: 9999;
+}
+
+.navbarActive{
+    background-color: yellow !important;
+}

@@ -1,0 +1,23 @@
+div .sliderImage1{
+    background-image:url("../Assets/hero1/img1.jpg");
+        
+}
+
+div.sliderImage2{
+    background-image:url("../Assets/hero1/img2.jpg");
+        
+}
+
+div.sliderImage3{
+    background-image:url("../Assets/hero1/img3.jpg");
+    
+        
+}
+
+div.poster{
+    background-image:url("../Assets/poster/poster.jpg");
+}
+
+div.poster2{
+    background-image:url("../Assets/poster2/1.png");
+}
